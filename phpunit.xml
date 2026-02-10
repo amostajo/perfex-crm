@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="false"
+    bootstrap="perfexcrm/my_functions_helper.php"
+    colors="true"
+    displayDetailsOnTestsThatTriggerDeprecations="true"
+    displayDetailsOnPhpunitDeprecations="true"
+    stopOnFailure="true">
+    <testsuites>
+        <testsuite name="Cases">
+            <directory>./tests/cases/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

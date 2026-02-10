@@ -1,0 +1,23 @@
+{
+    "name": "amostajo/perfexcrm",
+    "description": "Perfex CRM back-end and front-end customization samples.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/global/functions.php"
+        ],
+        "psr-4": {
+            "Amostajo\\PerfexCRM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ale Mostajo",
+            "email": "amostajo@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
