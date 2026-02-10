@@ -1,0 +1,1 @@
+:root{--color-on-surface: #030303;--color-background: #efefef;--font-family: 'Arial, sans-serif'}body{font-family:var(--font-family);background-color:var(--color-background);color:var(--color-on-surface);margin:0}body.dark{--color-on-surface: #fff;--color-background: #3c3c3c}
