@@ -1,6 +1,6 @@
 <?php
 
-namespace Amostajo\PerfexCRM\PerfexCRM;
+namespace Amostajo\PerfexCRM\Replica;
 
 /**
  * This class replicates Perfex CRM and WordPress hook system.

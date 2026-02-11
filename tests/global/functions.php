@@ -1,6 +1,6 @@
 <?php
 
-use Amostajo\PerfexCRM\PerfexCRM\Hooks;
+use Amostajo\PerfexCRM\Replica\Hooks;
 
 /**
  * Replica of global functions used in Perfex CRM application.
@@ -13,7 +13,7 @@ if (!function_exists('hooks')) {
     /**
      * Get the Hooks instance.
      *
-     * @return Amostajo\PerfexCRM\PerfexCRM\Hooks
+     * @return Amostajo\PerfexCRM\Replica\Hooks
      */
     function hooks(): Hooks
     {
