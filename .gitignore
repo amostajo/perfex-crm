@@ -1,3 +1,3 @@
 /vendor/
 /node_modules/
-.phpunit.results.cache
+.phpunit.result.cache
