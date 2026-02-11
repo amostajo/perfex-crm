@@ -1,7 +1,7 @@
 {
     "name": "amostajo/perfex-crm",
-    "description": "Perfex CRM back-end and front-end customization samples.",
-    "type": "project",
+    "description": "Perfex CRM library to customize hooks.",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
